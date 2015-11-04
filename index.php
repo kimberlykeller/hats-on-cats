@@ -60,11 +60,68 @@
 					</div>
 				</div>
 			</div>
-			<!--row with cat image-->
+<!--row with cat image-->
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						cat image base
+<!--dropzones-->
+						<div class="row">
+							<div class="col-md-3">
+								drop 1
+							</div>
+							<div class="col-md-3">
+								drop 2
+							</div>
+							<div class="col-md-3">
+								drop 3
+							</div>
+							<div class="col-md-3">
+								drop 4
+							</div>
+
+						<div class="row">
+							<div class="col-md-3">
+								drop 1
+							</div>
+							<div class="col-md-3">
+								drop 2
+							</div>
+							<div class="col-md-3">
+								drop 3
+							</div>
+							<div class="col-md-3">
+								drop 4
+							</div>
+
+						<div class="row">
+							<div class="col-md-3">
+								drop 1
+							</div>
+							<div class="col-md-3">
+								drop 2
+							</div>
+							<div class="col-md-3">
+								drop 3
+							</div>
+							<div class="col-md-3">
+								drop 4
+							</div>
+
+						<div class="row">
+							<div class="col-md-3">
+								drop 1
+							</div>
+							<div class="col-md-3">
+								drop 2
+							</div>
+							<div class="col-md-3">
+								drop 3
+							</div>
+							<div class="col-md-3">
+								drop 4
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
