@@ -36,4 +36,11 @@
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1>Welcome to Hats On Cats!</h1>
+			</div>
+		</header>
+	</body>
 </html>
