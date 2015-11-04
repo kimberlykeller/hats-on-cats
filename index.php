@@ -42,5 +42,30 @@
 				<h1>Welcome to Hats On Cats!</h1>
 			</div>
 		</header>
+		<main>
+			<!--row with hat images-->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						image 1
+					</div>
+					<div class="col-md-3">
+						image 2
+					</div>
+					<div class="col-md-3">
+						image 3
+					</div>
+				</div>
+			</div>
+			<!--row with cat image-->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						cat image base
+					</div>
+				</div>
+			</div>
+
+		</main>
 	</body>
 </html>
