@@ -11,10 +11,9 @@
 		<!-- Optional Bootstrap theme -->
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
-		<!-- ////////////////////////////////////////////////
-		//// LINK TO YOUR CUSTOM CSS FILES HERE
-
-		///////////////////////////////////////////////////// -->
+		<!-- custom CSS files -->
+		<link type="text/css" href="lib/css/style.css" rel="stylesheet"/>
+		<link type="text/css" href="lib/css/animate.css" rel="stylesheet"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,6 +33,9 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+		<!-- custom javascript files -->
+		<script type="text/javascript" src="lib/js/custom.js"></script>
 
 	</head>
 	<body>
@@ -63,8 +65,8 @@
 <!--row with cat image-->
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12">
-						cat image base
+					<div class="col-md-12 kitten">
+						boop
 <!--dropzones-->
 						<div class="row">
 							<div class="col-md-3">
@@ -79,7 +81,7 @@
 							<div class="col-md-3">
 								drop 4
 							</div>
-
+						</div>
 						<div class="row">
 							<div class="col-md-3">
 								drop 1
@@ -93,7 +95,7 @@
 							<div class="col-md-3">
 								drop 4
 							</div>
-
+						</div>
 						<div class="row">
 							<div class="col-md-3">
 								drop 1
@@ -107,7 +109,7 @@
 							<div class="col-md-3">
 								drop 4
 							</div>
-
+						</div>
 						<div class="row">
 							<div class="col-md-3">
 								drop 1
