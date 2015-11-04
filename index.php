@@ -55,6 +55,9 @@
 					<div class="col-md-3">
 						image 3
 					</div>
+					<div class="col-md-3">
+						image 4
+					</div>
 				</div>
 			</div>
 			<!--row with cat image-->
