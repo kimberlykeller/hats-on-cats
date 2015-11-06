@@ -38,7 +38,6 @@
 		<script type="text/javascript" src="lib/js/custom.js"></script>
 
 	</head>
-	<body>
 		<body class="sfooter" onload="init();">
 			<div class="sfooter-content">
 				<header>
