@@ -34,6 +34,9 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+		<!--latest compied and minified Easel.JS-->
+		<script type="text/javascript" src="https://code.createjs.com/easeljs-0.8.1.min.js"></script>
+
 		<!-- custom javascript files -->
 		<script type="text/javascript" src="lib/js/custom.js"></script>
 
