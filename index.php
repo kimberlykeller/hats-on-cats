@@ -38,101 +38,19 @@
 		<script type="text/javascript" src="lib/js/custom.js"></script>
 
 	</head>
-		<body class="sfooter" onload="init();">
-			<div class="sfooter-content">
-				<header>
-					<nav class="navbar navbar-fixed-top">
-						<div class="container">
-							<div class="navbar-header">
-								<a href="#" class="navbar-brand">Hats On Cats</a>
+	<body class="sfooter" onload="init();">
+		<div class="sfooter-content">
+			<header>
+				<nav class="navbar navbar-fixed-top">
+					<div class="container">
+						<div class="navbar-header">
+							<a href="#" class="navbar-brand">Hats On Cats</a>
 							</div>
 						</div>
 					</nav>
 				</header>
+			</div>
 		<main>
-			<!--row with hat images-->
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3">
-						image 1
-					</div>
-					<div class="col-md-3">
-						image 2
-					</div>
-					<div class="col-md-3">
-						image 3
-					</div>
-					<div class="col-md-3">
-						image 4
-					</div>
-				</div>
-			</div>
-<!--row with cat image-->
-			<div class="container kitten">
-				<div class="row">
-					<div class="col-md-12">
-						boop
-<!--dropzones-->
-						<div class="row">
-							<div class="col-md-3">
-								drop 1
-							</div>
-							<div class="col-md-3">
-								drop 2
-							</div>
-							<div class="col-md-3">
-								drop 3
-							</div>
-							<div class="col-md-3">
-								drop 4
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-3">
-								drop 1
-							</div>
-							<div class="col-md-3">
-								drop 2
-							</div>
-							<div class="col-md-3">
-								drop 3
-							</div>
-							<div class="col-md-3">
-								drop 4
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-3">
-								drop 1
-							</div>
-							<div class="col-md-3">
-								drop 2
-							</div>
-							<div class="col-md-3">
-								drop 3
-							</div>
-							<div class="col-md-3">
-								drop 4
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-3">
-								drop 1
-							</div>
-							<div class="col-md-3">
-								drop 2
-							</div>
-							<div class="col-md-3">
-								drop 3
-							</div>
-							<div class="col-md-3">
-								drop 4
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
 		</main>
 	</body>
 </html>
