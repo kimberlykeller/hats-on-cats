@@ -1,5 +1,3 @@
 .kitten {
-	background-image: url("/img/cats/blackkitten.jpg");
-	height: 644px;
-	width: 500px;
+	background: url(../../img/cats/blackkitten.svg) no-repeat center;
 }

@@ -39,11 +39,17 @@
 
 	</head>
 	<body>
-		<header>
-			<div class="container">
-				<h1>Welcome to Hats On Cats!</h1>
-			</div>
-		</header>
+		<body class="sfooter" onload="init();">
+			<div class="sfooter-content">
+				<header>
+					<nav class="navbar navbar-fixed-top">
+						<div class="container">
+							<div class="navbar-header">
+								<a href="#" class="navbar-brand">Hats On Cats</a>
+							</div>
+						</div>
+					</nav>
+				</header>
 		<main>
 			<!--row with hat images-->
 			<div class="container">
@@ -63,9 +69,9 @@
 				</div>
 			</div>
 <!--row with cat image-->
-			<div class="container">
+			<div class="container kitten">
 				<div class="row">
-					<div class="col-md-12 kitten">
+					<div class="col-md-12">
 						boop
 <!--dropzones-->
 						<div class="row">
