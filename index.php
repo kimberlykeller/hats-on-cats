@@ -54,6 +54,7 @@
 				</header>
 			</div>
 		<main>
+			<canvas id="demoCanvas"></canvas>
 		</main>
 	</body>
 </html>
