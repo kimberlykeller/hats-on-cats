@@ -39,6 +39,7 @@
 
 		<!-- custom javascript files -->
 		<script type="text/javascript" src="lib/js/custom.js"></script>
+		<script type="text/javascript" src="lib/js/daisy-test.js"></script>
 
 	</head>
 	<body class="sfooter" onload="init();">
