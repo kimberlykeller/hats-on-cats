@@ -44,7 +44,7 @@
 				<nav class="navbar navbar-fixed-top">
 					<div class="container">
 						<div class="navbar-header">
-							<a href="#" class="navbar-brand">Hats. On. Cats</a>
+							<a href="#" class="navbar-brand">Motherfucking. Hats. On. Cats</a>
 							</div>
 						</div>
 					</nav>
