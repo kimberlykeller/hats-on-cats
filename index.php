@@ -52,9 +52,10 @@
 						</div>
 					</nav>
 				</header>
+				<main>
+					<canvas id="demo-canvas"></canvas>
+				</main>
 			</div>
-		<main>
-			<canvas id="demoCanvas"></canvas>
-		</main>
+		<footer>Imma footer</footer>
 	</body>
 </html>

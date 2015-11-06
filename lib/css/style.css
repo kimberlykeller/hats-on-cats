@@ -3,6 +3,11 @@
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
+canvas {
+	width: 100%;
+	background-color: lavender;
+}
+
 /*corrects IE min-height bug*/
 html { display: flex;}
 body { width: 100%;}
